@@ -84,13 +84,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajeshsah5454983&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=00FFFF&icon_color=FF00FF&text_color=c9d1d9&bg_color=0d1117&ring_color=ff00ff&line_height=40&custom_title=Rajesh%20GitHub%20Stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajeshsah5454983&show_icons=true&theme=radical&hide_border=true&title_color=00FFFF&icon_color=FF00FF&text_color=c9d1d9&bg_color=0d1117&line_height=40&custom_title=Rajesh%20GitHub%20Stats" width="50%" />
 </div>
-
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshsah5454983&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF00FF&fire=FF00FF&currStreakNum=FF00FF&sideNums=00FFFF&currStreakLabel=FF00FF&sideLabels=00FFFF&dates=FFFFFF" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rajeshsah5454983&theme=radical&hide_border=true&background=0D1117&ring=FF00FF&fire=FF00FF&currStreakNum=FF00FF&sideNums=00FFFF&currStreakLabel=FF00FF&sideLabels=00FFFF&dates=FFFFFF" width="50%" />
 </div>
+
 
 
 ---
